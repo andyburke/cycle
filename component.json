@@ -1,0 +1,20 @@
+{
+  "name": "cycle",
+  "repo": "malsup/cycle",
+  "description": "jQuery Cycle Plugin - Slideshow goodness",
+  "version": "3.0.3",
+  "author": "malsup",
+  "twitter": "@malsup",
+  "keywords": [
+    "cycle",
+    "jquery"
+  ],
+  "dependencies": {},
+  "development": {
+  },
+  "license": "MIT/GPL",
+  "main": "jquery.cycle.all.js",
+  "scripts": [
+    "jquery.cycle.all.js"
+  ]
+}
